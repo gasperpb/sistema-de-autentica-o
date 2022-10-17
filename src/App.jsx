@@ -1,4 +1,5 @@
 import "./App.css";
+import HomePages from "./pages/HomePage";
 import LoginPages from "./pages/LoginPages";
 
 function App() {
